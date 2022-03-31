@@ -14,7 +14,6 @@ Work on the [pointer investigation area](https://github.com/web-platform-tests/i
 
 ## Known Problems
 
-* https://bugs.chromium.org/p/chromium/issues/detail?id=1129945
 * https://docs.google.com/spreadsheets/d/1K3lnen0hP0T3z7lDmUnTtTrA-qWJ5JVTvkuvhV8AQhY/edit?usp=sharing
 
 ## Chat
