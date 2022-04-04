@@ -20,3 +20,8 @@ Work on the [pointer investigation area](https://github.com/web-platform-tests/i
 
 https://app.element.io/#/room/#interop-2022-Pointer:matrix.org
 
+## Collaborators
+
+WebKit | Chromium | Gecko | Bocoup | Igalia 
+-------|----------|-------|--------|-------
+@whsieh @dcrousso @graouts | @flackr @mustaqahmed | ? | @howard-e @zcorpan | ?
