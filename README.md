@@ -24,4 +24,4 @@ https://app.element.io/#/room/#interop-2022-Pointer:matrix.org
 
 WebKit | Chromium | Gecko | Bocoup | Igalia 
 -------|----------|-------|--------|-------
-@whsieh @dcrousso @graouts | @flackr | ? | @howard-e @zcorpan | ?
+@whsieh @dcrousso @graouts | @flackr @mustaqahmed | ? | @howard-e @zcorpan | ?
